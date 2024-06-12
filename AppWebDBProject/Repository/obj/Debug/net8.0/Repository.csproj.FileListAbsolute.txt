@@ -1,0 +1,15 @@
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\obj\Debug\net8.0\Repository.csproj.AssemblyReference.cache
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\obj\Debug\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\obj\Debug\net8.0\Repository.AssemblyInfoInputs.cache
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\obj\Debug\net8.0\Repository.AssemblyInfo.cs
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\obj\Debug\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\bin\Debug\net8.0\Repository.deps.json
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\bin\Debug\net8.0\Repository.dll
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\bin\Debug\net8.0\Repository.pdb
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\bin\Debug\net8.0\Domain.dll
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\bin\Debug\net8.0\Domain.pdb
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\obj\Debug\net8.0\Repository.csproj.Up2Date
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\obj\Debug\net8.0\Repository.dll
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\obj\Debug\net8.0\refint\Repository.dll
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\obj\Debug\net8.0\Repository.pdb
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Repository\obj\Debug\net8.0\ref\Repository.dll

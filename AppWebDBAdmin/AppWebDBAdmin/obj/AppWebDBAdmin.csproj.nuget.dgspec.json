@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\Интегрирани\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\AppWebDBAdmin.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\Интегрирани\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\AppWebDBAdmin.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\Интегрирани\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\AppWebDBAdmin.csproj",
+        "projectName": "AppWebDBAdmin",
+        "projectPath": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\Интегрирани\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\AppWebDBAdmin.csproj",
+        "packagesPath": "C:\\Users\\tomce\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\Интегрирани\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tomce\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.2, )"
+            },
+            "ExcelDataReader": {
+              "target": "Package",
+              "version": "[3.6.0, )"
+            },
+            "GemBox.Document": {
+              "target": "Package",
+              "version": "[35.0.1784, )"
+            },
+            "GemBox.Spreadsheet": {
+              "target": "Package",
+              "version": "[49.0.1737, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "System.Net.Http": {
+              "target": "Package",
+              "version": "[4.3.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

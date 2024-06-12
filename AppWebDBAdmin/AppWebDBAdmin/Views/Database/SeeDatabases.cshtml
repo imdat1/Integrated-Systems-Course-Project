@@ -1,0 +1,44 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model DBUser
+@using System.Collections.Generic
+@using AppWebDBAdmin.Models
+
+<h1>All Databases for user with email: @Model.Email</h1>
+<a class="button" asp-action="ImportDatabasesView" asp-controller="Database" asp-route-id="@Model.Id">Import Databases</a>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Database Name</th>
+            <th>Database Host</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Databases)
+        {
+            <tr>
+                <td>@item.DatabaseName</td>
+                <td>@item.Host</td>
+                <td><a class="button" asp-action="ExportQuestionsForDatabase" asp-controller="Database" asp-route-id="@item.Id">Export Question-Answers for Database</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@{
+    var invalidDatabases = ViewBag.InvalidDatabases as List<Database>;
+}
+
+@if (invalidDatabases != null && invalidDatabases.Any())
+{
+    <h3>Invalid Databases</h3>
+    <ul>
+        @foreach (var db in invalidDatabases)
+        {
+            <li>@db.Username - @db.Password - @db.Host - @db.DatabaseName</li>
+        }
+    </ul>
+}
+

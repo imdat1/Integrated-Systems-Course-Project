@@ -1,0 +1,17 @@
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\obj\Debug\net8.0\Service.csproj.AssemblyReference.cache
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\obj\Debug\net8.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\obj\Debug\net8.0\Service.AssemblyInfoInputs.cache
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\obj\Debug\net8.0\Service.AssemblyInfo.cs
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\obj\Debug\net8.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\bin\Debug\net8.0\Service.deps.json
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\bin\Debug\net8.0\Service.dll
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\bin\Debug\net8.0\Service.pdb
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\bin\Debug\net8.0\Domain.dll
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\bin\Debug\net8.0\Repository.dll
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\bin\Debug\net8.0\Domain.pdb
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\bin\Debug\net8.0\Repository.pdb
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\obj\Debug\net8.0\Service.csproj.Up2Date
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\obj\Debug\net8.0\Service.dll
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\obj\Debug\net8.0\refint\Service.dll
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\obj\Debug\net8.0\Service.pdb
+C:\Users\tomce\OneDrive - UKIM, FINKI\Desktop\Fakultet 3ta Godina\2 Sesti Semestar\Интегрирани\0 MOJA VEB SEMINARSKA TRY\AppWebDBProject\Service\obj\Debug\net8.0\ref\Service.dll

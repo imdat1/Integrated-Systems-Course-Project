@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model Domain.Domain.Question
+@{
+    var databaseId = ViewBag.DatabaseId;
+}
+<h1>Ask a question</h1>
+
+<h4>Question:</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AskQuestion" asp-route-id="@databaseId" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="QuestionText" class="control-label"></label>
+                <input asp-for="QuestionText" class="form-control" />
+                <span asp-validation-for="QuestionText" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="AskQuestion" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index" asp-route-id="@databaseId">Back to List</a>
+</div>

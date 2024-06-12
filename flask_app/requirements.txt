@@ -1,0 +1,15 @@
+pandas
+numpy
+flask 
+huggingface_hub
+langchain-core==0.2.1
+langchain
+langchain-community==0.2.1
+python-environ
+text-generation
+transformers
+google-search-results
+numexpr
+langchainhub
+sentencepiece
+jinja2

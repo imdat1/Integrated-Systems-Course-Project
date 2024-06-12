@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\controllers\\databasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\views\\database\\seedatabases.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\views\\database\\seedatabases.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\views\\database\\importdatabasesview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\views\\database\\importdatabasesview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_AppWebDB_ff5e060d_157c_41ee_8bea_db9743b36784/True/SqlTable/dbo.Databases.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\models\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\models\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\models\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\models\\dto\\importresultsdatabasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\models\\dto\\importresultsdatabasedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\models\\dbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\models\\dbuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\views\\user\\importusersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\views\\user\\importusersview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\models\\dto\\importresultsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\models\\dto\\importresultsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|c:\\users\\tomce\\onedrive - ukim, finki\\desktop\\fakultet 3ta godina\\2 sesti semestar\\\u0438\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 moja veb seminarska try\\appwebdbadmin\\appwebdbadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB6D668-A2D6-407E-98AC-19DA1A649E12}|AppWebDBAdmin\\AppWebDBAdmin.csproj|solutionrelative:appwebdbadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dbo.Databases [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_AppWebDB_ff5e060d_157c_41ee_8bea_db9743b36784/True/SqlTable/dbo.Databases.sql",
+              "ToolTip": "dbo.Databases [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-06-12T02:52:14.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseController.cs",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Controllers\\DatabaseController.cs",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Controllers\\DatabaseController.cs",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Controllers\\DatabaseController.cs",
+              "RelativeToolTip": "AppWebDBAdmin\\Controllers\\DatabaseController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAewH0AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:18:53.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SeeDatabases.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Views\\Database\\SeeDatabases.cshtml",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Views\\Database\\SeeDatabases.cshtml",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Views\\Database\\SeeDatabases.cshtml",
+              "RelativeToolTip": "AppWebDBAdmin\\Views\\Database\\SeeDatabases.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T16:31:50.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\Database.cs",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Models\\Database.cs",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\Database.cs",
+              "RelativeToolTip": "AppWebDBAdmin\\Models\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:00:48.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportDatabasesView.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Views\\Database\\ImportDatabasesView.cshtml",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Views\\Database\\ImportDatabasesView.cshtml",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Views\\Database\\ImportDatabasesView.cshtml",
+              "RelativeToolTip": "AppWebDBAdmin\\Views\\Database\\ImportDatabasesView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-12T01:04:52.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Question.cs",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\Question.cs",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Models\\Question.cs",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\Question.cs",
+              "RelativeToolTip": "AppWebDBAdmin\\Models\\Question.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:01:24.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\DTO\\UserRegistrationDto.cs",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Models\\DTO\\UserRegistrationDto.cs",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\DTO\\UserRegistrationDto.cs",
+              "RelativeToolTip": "AppWebDBAdmin\\Models\\DTO\\UserRegistrationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:50:42.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AppWebDBAdmin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAtwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:02:02.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AppWebDBAdmin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:37:21.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "AppWebDBAdmin\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T12:13:27.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ImportResultsDatabaseDto.cs",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\DTO\\ImportResultsDatabaseDto.cs",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Models\\DTO\\ImportResultsDatabaseDto.cs",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\DTO\\ImportResultsDatabaseDto.cs",
+              "RelativeToolTip": "AppWebDBAdmin\\Models\\DTO\\ImportResultsDatabaseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T02:06:19.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DBUser.cs",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\DBUser.cs",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Models\\DBUser.cs",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\DBUser.cs",
+              "RelativeToolTip": "AppWebDBAdmin\\Models\\DBUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T11:59:53.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ImportUsersView.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Views\\User\\ImportUsersView.cshtml",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Views\\User\\ImportUsersView.cshtml",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Views\\User\\ImportUsersView.cshtml",
+              "RelativeToolTip": "AppWebDBAdmin\\Views\\User\\ImportUsersView.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T12:39:30.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Program.cs",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Program.cs",
+              "RelativeToolTip": "AppWebDBAdmin\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T12:05:23.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppWebDBAdmin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-04T12:36:59.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ImportResultsDto.cs",
+              "DocumentMoniker": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\DTO\\ImportResultsDto.cs",
+              "RelativeDocumentMoniker": "AppWebDBAdmin\\Models\\DTO\\ImportResultsDto.cs",
+              "ToolTip": "C:\\Users\\tomce\\OneDrive - UKIM, FINKI\\Desktop\\Fakultet 3ta Godina\\2 Sesti Semestar\\\u0418\u043D\u0442\u0435\u0433\u0440\u0438\u0440\u0430\u043D\u0438\\0 MOJA VEB SEMINARSKA TRY\\AppWebDBAdmin\\AppWebDBAdmin\\Models\\DTO\\ImportResultsDto.cs",
+              "RelativeToolTip": "AppWebDBAdmin\\Models\\DTO\\ImportResultsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T16:03:37.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
