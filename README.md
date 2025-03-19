@@ -54,4 +54,9 @@ For testing purposes, I can also suggest running the [bradymholt/postgres-northw
 
 "docker run --rm -it -p 5433:5432 --name postgres-northwind bradymholt/postgres-northwind:latest"
 
+If you're running a database inside a Docker container while running the Flask service through a Docker container too, add them to the same netvork:
+"docker network create app-network
+docker network connect app-network <POSTGRES_DB_CONTAINER_NAME>
+docker network connect app-network <PYTHON_FLASK_CONTAINER_NAME>"
+The host afterwards for the Postgres database will be "<POSTGRES_DB_CONTAINER_NAME>"
 
